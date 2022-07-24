@@ -1,0 +1,16 @@
+C:\Users\Jason\Desktop\ForHalcon\ForHalcon\obj\x64\Debug\ForHalcon.csproj.AssemblyReference.cache
+C:\Users\Jason\Desktop\ForHalcon\ForHalcon\obj\x64\Debug\ForHalcon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jason\Desktop\ForHalcon\ForHalcon\obj\x64\Debug\ForHalcon.Form1.resources
+C:\Users\Jason\Desktop\ForHalcon\ForHalcon\obj\x64\Debug\ForHalcon.Properties.Resources.resources
+C:\Users\Jason\Desktop\ForHalcon\ForHalcon\obj\x64\Debug\ForHalcon.csproj.GenerateResource.cache
+C:\Users\Jason\Desktop\ForHalcon\ForHalcon\obj\x64\Debug\ForHalcon.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\ForHalcon\ForHalcon\bin\x64\Debug\ForHalcon.exe.config
+C:\Users\Jason\Desktop\ForHalcon\ForHalcon\bin\x64\Debug\ForHalcon.exe
+C:\Users\Jason\Desktop\ForHalcon\ForHalcon\bin\x64\Debug\ForHalcon.pdb
+C:\Users\Jason\Desktop\ForHalcon\ForHalcon\bin\x64\Debug\halcondotnet.dll
+C:\Users\Jason\Desktop\ForHalcon\ForHalcon\bin\x64\Debug\hdevenginedotnet.dll
+C:\Users\Jason\Desktop\ForHalcon\ForHalcon\bin\x64\Debug\halcondotnet.xml
+C:\Users\Jason\Desktop\ForHalcon\ForHalcon\bin\x64\Debug\hdevenginedotnet.xml
+C:\Users\Jason\Desktop\ForHalcon\ForHalcon\obj\x64\Debug\ForHalcon.csproj.CopyComplete
+C:\Users\Jason\Desktop\ForHalcon\ForHalcon\obj\x64\Debug\ForHalcon.exe
+C:\Users\Jason\Desktop\ForHalcon\ForHalcon\obj\x64\Debug\ForHalcon.pdb
